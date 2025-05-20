@@ -8,7 +8,7 @@ I'm a Data & Digital Analyst passionate about transforming complex data into act
 
 ## 🛠 Skills
 - **Languages/Tools:** SQL, Python, R, Excel, Power BI, Tableau
-- **Platforms:** EMIS, MS Forms, Semble, NHS Digital
+- **Platforms:** EMIS, MS Forms, Semble
 - **Expertise:** Data cleaning, dashboarding, automation, stakeholder reporting
 
 ---
