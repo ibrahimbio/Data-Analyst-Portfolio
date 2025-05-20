@@ -51,20 +51,18 @@ I'm a Data & Digital Analyst passionate about transforming complex data into act
 
 ---
 
-## 📄 [Download My Resume (PDF)](https://example.com/your-cv.pdf)
+## 📄 [Download My Resume (PDF)](https://github.com/ibrahimbio/Data-Analyst-Portfolio/blob/main/Ibrahim_Bio_Abubakar_Data%20Analyst.pdf)
 
 ---
 
 ## ✍️ Blog Highlights
-- [Turning GP Data into Insights](https://medium.com/@example-user/gp-data-insights)  
-- [Power BI + SQL Automation Guide](https://medium.com/@example-user/powerbi-sql-automation)  
-- [What Makes a Good KPI?](https://medium.com/@example-user/healthcare-kpis)
+- [Turning GP Data into Insights](https://medium.com/@ibrahimbioabubakar/turning-gp-data-into-insights-0e110ba5d318)  
+- [Power BI + SQL Automation Guide](https://medium.com/@ibrahimbioabubakar/power-bi-sql-automation-guide-48f6e4430987)  
+- [What Makes a Good KPI?](https://medium.com/@ibrahimbioabubakar/what-makes-a-good-kpi-36f1824c3007)
 
 ---
 
 ## 📬 Contact
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** ibrahimbioabubakar@yahoo.com  
 
 ---
