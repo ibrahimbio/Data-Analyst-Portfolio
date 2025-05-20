@@ -64,7 +64,5 @@ I'm a Data & Digital Analyst passionate about transforming complex data into act
 
 ## 📬 Contact
 - **Email:** ibrahimbioabubakar@yahoo.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
 
 ---
