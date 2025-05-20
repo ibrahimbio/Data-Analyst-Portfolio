@@ -56,9 +56,9 @@ I'm a Data & Digital Analyst passionate about transforming complex data into act
 ---
 
 ## ✍️ Blog Highlights
-- [Turning GP Data into Insights](https://medium.com/@example-user/gp-data-insights)  
-- [Power BI + SQL Automation Guide](https://medium.com/@example-user/powerbi-sql-automation)  
-- [What Makes a Good KPI?](https://medium.com/@example-user/healthcare-kpis)
+- [Turning GP Data into Insights](https://medium.com/@ibrahimbioabubakar/turning-gp-data-into-insights-0e110ba5d318)  
+- [Power BI + SQL Automation Guide](https://medium.com/@ibrahimbioabubakar/power-bi-sql-automation-guide-48f6e4430987)  
+- [What Makes a Good KPI?](https://medium.com/@ibrahimbioabubakar/what-makes-a-good-kpi-36f1824c3007)
 
 ---
 
