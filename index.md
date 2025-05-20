@@ -51,7 +51,7 @@ I'm a Data & Digital Analyst passionate about transforming complex data into act
 
 ---
 
-## 📄 [Download My Resume (PDF)](https://example.com/your-cv.pdf)
+## 📄 [Download My Resume (PDF)](Ibrahim Bio Abubakar _Data Analyst CV.pdff)
 
 ---
 
