@@ -1,7 +1,6 @@
 # Data-Analyst-Portfolio
 ---
-layout: default
-title: [Your Name] – Data Analyst Portfolio
+
 ---
 
 # 👋 Hi, I'm Ibrahim Bio Abubakar
